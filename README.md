@@ -14,7 +14,7 @@ Este es un script ligero escrito en **GSC (Game Script Compiler)** para *Call of
 
 ## 🚀 Instalación
 
-1. Coloca el archivo `zombie_counter.gsc` dentro de "C:\Users\User\AppData\Local\Plutonium\storage\t5\scripts\"
+1. Coloca el archivo `cod_zombie_counter.gsc` dentro de "C:\Users\User\AppData\Local\Plutonium\storage\t5\scripts\"
 2. Ejecuta Call Of Duty: Black Ops 1 Zombies mediante el launcher de Plutonium.
 3. Ejecuta cualquier mapa del modo zombies y cuando hayas ingresado a la partida podrás ver el contador de zombies restantes en pantalla.
 
